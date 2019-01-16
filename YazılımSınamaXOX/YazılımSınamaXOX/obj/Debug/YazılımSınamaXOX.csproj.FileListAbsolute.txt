@@ -1,0 +1,25 @@
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.exe.config
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.csprojResolveAssemblyReference.cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Oyun.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Properties.Resources.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.XOX.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.csproj.GenerateResource.Cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Bilgisayara_Karşı.resources
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Oyun.resources
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.XOX.resources
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.exe
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.pdb
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.exe.config
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.exe
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.pdb
+C:\Users\Cansu Ecevit\Desktop\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.Bilgisayara_Karsi.resources
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\YazılımSınamaXOX\YazılımSınamaXOX\bin\Debug\YazılımSınamaXOX.exe.config
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.exe
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\YazılımSınamaXOX\YazılımSınamaXOX\obj\Debug\YazılımSınamaXOX.pdb
